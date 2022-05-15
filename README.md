@@ -1,17 +1,10 @@
-# books-articles
+# a list of somewhat CS/tech related books
 
-🟩 finished 
 
-🟦 reading
+- [x] A Biography of the Pixel
 
-🟪 haven't started yet
+- [ ] Plastic Reality 
 
-###
+- [ ] The Practice of Light
 
-🟩 A Biography of the Pixel
-
-🟦 Plastic Reality 
-
-🟪 The Practice of Light
-
-🟩 Nabokov's Favorite Word Is Mauve
+- [x] Nabokov's Favorite Word Is Mauve
