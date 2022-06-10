@@ -14,4 +14,4 @@
 > And Nabokov is my favorite writer.
       
 ### The Practice of Light
-> Rendering, like Rembrandt, is a matter of lights and shadows. 
+> Rendering, is like Rembrandt.
