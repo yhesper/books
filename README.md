@@ -14,4 +14,4 @@
 > And Nabokov is my favorite writer.
       
 ### The Practice of Light
-> Rendering, is like Rembrandt.
+> Rendering is like Rembrandt.
