@@ -11,7 +11,7 @@
 > A new book by Prof. Julie Turnock. It's gonna come out later this summer, hopefully I'll finish reading Plastic Reaslity by then.
 
 ### Nabokov's Favorite Word Is Mauve
-> And Nabokov is my favorite writer.  :)
+> And Nabokov is my favorite writer.
       
 ### The Practice of Light
 > Rendering, like Rembrandt, is a matter of lights and shadows. 
