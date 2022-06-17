@@ -16,8 +16,4 @@
 ### Nabokov's Favorite Word Is Mauve
 > And Nabokov is my favorite writer. Great read to grasp a sense of what digital humanities is about, but too bad the author discuss too little Nabokov!
 
-### Close Reading with Computers: Textual Scholarship, Computational Formalism, and David Mitchell's Cloud Atlas
-> I am starting to feel like my literary taste has been approved by digital humanity scholars :-) 
-> However, as I am not a humanities scholar, this book is a bit too formal and difficult for me, and I am not sure how much of this book I will be able to understand and absorb.
-
 ### The Fourth Dimension and Non-Euclidean Geometry in Modern Art
