@@ -15,5 +15,3 @@
 
 ### Nabokov's Favorite Word Is Mauve
 > And Nabokov is my favorite writer. Great read to grasp a sense of what digital humanities is about, but too bad the author discuss too little Nabokov!
-
-### The Fourth Dimension and Non-Euclidean Geometry in Modern Art
